@@ -1,0 +1,4 @@
+#Sun Dec 25 21:19:46 MMT 2022
+base.0=C\:\\TinvioAndroidProjects\\Emoji Calculator Project Files\\starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

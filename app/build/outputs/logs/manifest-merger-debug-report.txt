@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\e9e5af5a4099c01623f7113f0ee0c460\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1b2d3704e0d4a94a0baa8b0d285d7bb5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\f05269df50dc2052b87c38ff05f4d9db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8c6d3c476e9a251a85b8f65a189bdb6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\ba57d58f45ee1b381b388ab43a3aaa04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\668c5a63d90d77d35b43ce988acc4ced\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\9b00b6cc0b5ce9eb925e1471acc995c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\cec4a5325dce045f43db26ea8c9d8e9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e17647b222b25db465edb2fd057a3e26\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\439a1d24ccfba110fc3109cf632b2f1b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\5b6e5f16f946add7ba7e7fb062e03c8f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\9e98a5baa38c94e992e1b45e205e435f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\c970004882bcc5f5ff3f8ec1d4e9841d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a476b8e81493f8cfccdc0429f77c2383\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7ebcc7cffd27d0b33f89a9717e6f8b75\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\66ef82ab8cc9c1d58966e624eff0dfe3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c5a8751ec3a2b4d186d60f83accaea7c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1aa3feb057a079dd4692068f1601445d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\376b310d6293b52567bd18b83dc43623\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3d1e8f3e61168f993b7d1071ea7e27da\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9d96699381abffc8e19fefa07f65f38e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\85294beb72a381f6bd8ce5e15c5aaae0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\6e24fd6090726133ddbc7a0d82a6369b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\48d8f7040c9c29fcb63279dc22591224\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f95005a9c4fc3800d7721ea8647dd05a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\eac1f00c33a78398de58b8ae78d5bc38\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\550d59440f923354908982c76cbd379a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\940bf926f8834fb066077f8f948d9c0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7f8ea4c96de90e74248d3723c158aae5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\12162b16506b0204213aed89648f5b66\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ee14ab3d75731f7a62d2c1c0cd696587\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:11-62
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:5:3-24:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\e9e5af5a4099c01623f7113f0ee0c460\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\e9e5af5a4099c01623f7113f0ee0c460\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1b2d3704e0d4a94a0baa8b0d285d7bb5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1b2d3704e0d4a94a0baa8b0d285d7bb5\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\376b310d6293b52567bd18b83dc43623\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\376b310d6293b52567bd18b83dc43623\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3d1e8f3e61168f993b7d1071ea7e27da\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3d1e8f3e61168f993b7d1071ea7e27da\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\376b310d6293b52567bd18b83dc43623\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:11:7-38
+activity#com.raywenderlich.android.emojicalculator.SplashActivity
+ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:14:15-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:18:19-66
+activity#com.raywenderlich.android.emojicalculator.MainActivity
+ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:23:5-86
+	android:name
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml:23:15-84
+uses-sdk
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\e9e5af5a4099c01623f7113f0ee0c460\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\e9e5af5a4099c01623f7113f0ee0c460\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1b2d3704e0d4a94a0baa8b0d285d7bb5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\1b2d3704e0d4a94a0baa8b0d285d7bb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\f05269df50dc2052b87c38ff05f4d9db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\f05269df50dc2052b87c38ff05f4d9db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8c6d3c476e9a251a85b8f65a189bdb6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\8c6d3c476e9a251a85b8f65a189bdb6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\ba57d58f45ee1b381b388ab43a3aaa04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\ba57d58f45ee1b381b388ab43a3aaa04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\668c5a63d90d77d35b43ce988acc4ced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\668c5a63d90d77d35b43ce988acc4ced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\9b00b6cc0b5ce9eb925e1471acc995c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\9b00b6cc0b5ce9eb925e1471acc995c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\cec4a5325dce045f43db26ea8c9d8e9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\cec4a5325dce045f43db26ea8c9d8e9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e17647b222b25db465edb2fd057a3e26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e17647b222b25db465edb2fd057a3e26\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\439a1d24ccfba110fc3109cf632b2f1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\439a1d24ccfba110fc3109cf632b2f1b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\5b6e5f16f946add7ba7e7fb062e03c8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\5b6e5f16f946add7ba7e7fb062e03c8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\9e98a5baa38c94e992e1b45e205e435f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\9e98a5baa38c94e992e1b45e205e435f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\c970004882bcc5f5ff3f8ec1d4e9841d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\c970004882bcc5f5ff3f8ec1d4e9841d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a476b8e81493f8cfccdc0429f77c2383\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\a476b8e81493f8cfccdc0429f77c2383\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7ebcc7cffd27d0b33f89a9717e6f8b75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\7ebcc7cffd27d0b33f89a9717e6f8b75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\66ef82ab8cc9c1d58966e624eff0dfe3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\66ef82ab8cc9c1d58966e624eff0dfe3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c5a8751ec3a2b4d186d60f83accaea7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\c5a8751ec3a2b4d186d60f83accaea7c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1aa3feb057a079dd4692068f1601445d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1aa3feb057a079dd4692068f1601445d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\376b310d6293b52567bd18b83dc43623\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\376b310d6293b52567bd18b83dc43623\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3d1e8f3e61168f993b7d1071ea7e27da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\3d1e8f3e61168f993b7d1071ea7e27da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9d96699381abffc8e19fefa07f65f38e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\9d96699381abffc8e19fefa07f65f38e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\85294beb72a381f6bd8ce5e15c5aaae0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\85294beb72a381f6bd8ce5e15c5aaae0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\6e24fd6090726133ddbc7a0d82a6369b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\6e24fd6090726133ddbc7a0d82a6369b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\48d8f7040c9c29fcb63279dc22591224\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\48d8f7040c9c29fcb63279dc22591224\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f95005a9c4fc3800d7721ea8647dd05a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\f95005a9c4fc3800d7721ea8647dd05a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\eac1f00c33a78398de58b8ae78d5bc38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\eac1f00c33a78398de58b8ae78d5bc38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\550d59440f923354908982c76cbd379a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\550d59440f923354908982c76cbd379a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\940bf926f8834fb066077f8f948d9c0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\940bf926f8834fb066077f8f948d9c0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7f8ea4c96de90e74248d3723c158aae5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\7f8ea4c96de90e74248d3723c158aae5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\12162b16506b0204213aed89648f5b66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\12162b16506b0204213aed89648f5b66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ee14ab3d75731f7a62d2c1c0cd696587\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\ee14ab3d75731f7a62d2c1c0cd696587\AndroidManifest.xml:20:5-44
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\TinvioAndroidProjects\Emoji Calculator Project Files\starter\app\src\main\AndroidManifest.xml
